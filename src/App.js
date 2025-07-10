@@ -9,7 +9,6 @@ function App() {
     <div className="App">
       <div className="container">
         <Header />
-        <button> click me yes</button>
         <MoviesGrid />
       </div>
       <Footer />
